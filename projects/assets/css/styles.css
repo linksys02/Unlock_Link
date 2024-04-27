@@ -84,6 +84,7 @@ body{
   }
 
   .img_anime_holder {
+    margin-top: 2px;
     width: 350px;
     height: 180px;
     background-color: black;

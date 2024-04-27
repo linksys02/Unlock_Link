@@ -33,16 +33,26 @@ function openAlucardXTanjiro() {
   window.location.href = "https://linksys02.github.io/AlucardXTanjiro/";
 }
 
-// Download Zip function
-function downloadZip() {
+function openPaquitoToKOFTodo(){
+  window.location.href = "https://linksys02.github.io/PaquitoToKOF/";
+}
 
-  var link = document.createElement("a");
+function openYinXErenTodo(){
+  window.location.href = "https://linksys02.github.io/YinToEren/";
+}
 
-    link.href = "projects/assets/download_zip/Alucard%20X%20Tanjiro.zip";
-    link.download = "Alucard X Tanjiro.zip";
+function openChouToIoriTodo(){
+  window.location.href = "https://linksys02.github.io/ChouToIori/";
+}
 
-  document.body.appendChild(link);
-  link.click();
+function openLanceToZenitsuTodo(){
+  window.location.href = "https://linksys02.github.io/LanceToZenitsu/";
+}
 
-  document.body.removeChild(link);
+function openSunToNarutoTodo(){
+  window.location.href = "https://linksys02.github.io/SunToNaruto/";
+}
+
+function openAldousToStarStreamTodo(){
+  window.location.href = "https://linksys02.github.io/AldousToStarStream/";
 }
